@@ -1,0 +1,28 @@
+{
+  "name": "console_design",
+  "version": "1.0.0",
+  "description": "Design the Dev tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gowtham",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GowthamArputharaj/console_design.git"
+  },
+  "keywords": [
+    "console",
+    "design",
+    "style",
+    "devtools",
+    "dev",
+    "tools"
+  ],
+  "bugs": {
+    "url": "https://github.com/GowthamArputharaj/console_design/issues"
+  },
+  "homepage": "https://github.com/GowthamArputharaj/console_design#readme"
+}
+
