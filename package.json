@@ -1,6 +1,6 @@
 {
   "name": "console_design",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design the Dev tools",
   "main": "index.js",
   "scripts": {
@@ -25,4 +25,3 @@
   },
   "homepage": "https://github.com/GowthamArputharaj/console_design#readme"
 }
-
