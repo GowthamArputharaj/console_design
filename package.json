@@ -1,7 +1,7 @@
 {
-  "name": "console_design",
-  "version": "1.0.1",
-  "description": "Design the Dev tools",
+  "name": "instagram_video_downloader_gowtham",
+  "version": "1.0.0",
+  "description": "Instagram Video Downloader Gowtham",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GowthamArputharaj/console_design.git"
+    "url": "git+https://github.com/GowthamArputharaj/npm_instagram_post_downloader.git"
   },
   "keywords": [
     "console",
@@ -21,7 +21,7 @@
     "tools"
   ],
   "bugs": {
-    "url": "https://github.com/GowthamArputharaj/console_design/issues"
+    "url": "https://github.com/GowthamArputharaj/npm_instagram_post_downloader/issues"
   },
-  "homepage": "https://github.com/GowthamArputharaj/console_design#readme"
+  "homepage": "https://github.com/GowthamArputharaj/npm_instagram_post_downloader#readme"
 }

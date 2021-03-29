@@ -12,3 +12,18 @@ var style = 'background: #888; color: white; padding: 1rem 2rem; border-radius: 
 var cd = consoleDesign(text, style);
 
 console.log(cd.text, cd.style);
+
+
+# instagram video downloader
+downloadPost(q, (err, resp) => {
+    if(err) {
+        console.log(`Error is: ${err}`);
+    }
+
+    if(resp) {
+        console.log(err);
+        console.log(resp);
+    }
+});
+
+
