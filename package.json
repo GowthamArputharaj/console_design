@@ -1,6 +1,6 @@
 {
   "name": "console_design",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Design the Dev tools",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,20 @@
     "style",
     "devtools",
     "dev",
-    "tools"
+    "tools",
+    "designer",
+    "console_design",
+    "console_designer",
+    "dev_tools",
+    "tool",
+    "chrome",
+    "firefox",
+    "browser",
+    "debug",
+    "debugger",
+    "console.log",
+    "css",
+    "easy"
   ],
   "bugs": {
     "url": "https://github.com/GowthamArputharaj/console_design/issues"
