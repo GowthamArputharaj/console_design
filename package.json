@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GowthamArputharaj/console_design.git"
+    "url": "git+https://github.com/GowthamArputharaj/npm_instagram_post_downloader.git"
   },
   "keywords": [
     "console",
@@ -34,7 +34,7 @@
     "easy"
   ],
   "bugs": {
-    "url": "https://github.com/GowthamArputharaj/console_design/issues"
+    "url": "https://github.com/GowthamArputharaj/npm_instagram_post_downloader/issues"
   },
-  "homepage": "https://github.com/GowthamArputharaj/console_design#readme"
+  "homepage": "https://github.com/GowthamArputharaj/npm_instagram_post_downloader#readme"
 }
